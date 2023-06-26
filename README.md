@@ -10,6 +10,7 @@ Examined the relationship between job level and attrition, highlighting the high
 Provided recommendations for reducing attrition, such as addressing work-life balance concerns, offering career development opportunities, and enhancing job satisfaction.
 
 Project Structure
+
 Data Analysis: Contains Jupyter Notebook files with detailed analysis, visualizations, and statistical tests performed on the dataset.
 Data: Includes the dataset used for analysis (HR_Attrition.csv).
 Figures: Contains visualizations generated during the analysis process.
