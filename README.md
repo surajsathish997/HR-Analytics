@@ -20,3 +20,7 @@ Data: Includes the dataset used for analysis (HR_Attrition.csv).
 Figures: Contains visualizations generated during the analysis process.
 
 Recommendations: Provides a summary of the recommendations based on the analysis findings.
+
+![image](https://github.com/surajsathish997/HR-Attrition-Analysis/assets/18410759/89a534da-5537-4ab3-9dde-428e2b9154ac)
+![image](https://github.com/surajsathish997/HR-Attrition-Analysis/assets/18410759/5ae9a8fc-4f2e-44fa-90ad-554d9691b90c)
+![image](https://github.com/surajsathish997/HR-Attrition-Analysis/assets/18410759/815f1979-7271-4996-a885-647872330597)
