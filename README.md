@@ -1,3 +1,6 @@
+![image](https://github.com/surajsathish997/HR-Attrition-Analysis/assets/18410759/e41c6589-0153-4d93-853d-f0146edf07ad)
+![image](https://github.com/surajsathish997/HR-Attrition-Analysis/assets/18410759/d7888d75-1991-4d50-a8c7-4f1ae3444016)
+
 
 **Introduction**
 
@@ -97,14 +100,17 @@ Random Forest:
 ![image](https://github.com/surajsathish997/HR-Attrition-Analysis/assets/18410759/7b0fe4f3-16e4-44fd-88f1-498d6a67a28a)
 
 **Summary:**
+
 Among the models evaluated, Logistic Regression yielded the highest accuracies, ranging from 0.8408 to 0.8429. This indicates that the Logistic Regression model outperformed the baseline accuracy, demonstrating its effectiveness in predicting employee attrition.
 Therefore, based on the analysis, the Logistic Regression model utilizing the features 'Age', 'Department', 'JobLevel', 'JobSatisfaction', and 'MaritalStatus' is recommended for predicting employee attrition.
 
 
 
 **Recommendations**
+
 Attrition can have significant negative impacts on an organization, including loss of talent, decreased productivity, and increased recruitment costs. This section provides recommendations based on the analysis of the key features that were identified which influenced attrition. These key features were age, department, job level, job satisfaction, and work-life balance. 
 Work-Life Balance: It is evident that work-life balance plays a crucial role in employee satisfaction and attrition rates. Based on the analysis, it was revealed that employees in certain age groups are more susceptible to attrition. By providing flexible work hours, remote work options, or other benefits the organization can address specific needs of certain employee groups. Employees who perceive a lack of work-life balance are more likely to experience job dissatisfaction and consider leaving the organization.
 Career Development and Growth: Younger employees showed higher attrition rates, indicating a potential desire for growth and advancement. To address this, the organization should provide ample opportunities for career development, growth, and advancement. Implement mentorship programs, training initiatives, and clearly defined career paths to engage and retain young talent, fostering a sense of progression and achievement.
 Enhance Job Satisfaction: Job satisfaction emerged as a significant factor associated with attrition. To improve job satisfaction, the organization should create a positive work environment that promotes open communication, recognition of employee achievements, and opportunities for professional development. By addressing employee concerns and fostering a satisfying work atmosphere, attrition rates can be reduced.
 Implementation of these recommendations, accompanied by regular monitoring and evaluation of attrition rates and employee satisfaction levels, will provide valuable insights for ongoing improvements in attrition management strategies. By proactively addressing attrition concerns, the organization can enhance employee retention, productivity, and overall organizational success.
+
